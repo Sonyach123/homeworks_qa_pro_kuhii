@@ -22,4 +22,4 @@ function checkProbabilityTheory(count) {
     console.log("Відсоток скільки парних: " + evenPercent + "%");
     console.log("Відсоток скільки непарних: " + oddPercent + "%");
 }
-checkProbabilityTheory(100)
+checkProbabilityTheory(1000)
